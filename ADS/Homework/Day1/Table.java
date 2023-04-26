@@ -4,7 +4,7 @@ class Table{
 	
 	static void table( int n,int num){
 		
-		if(n==10)	
+		if(n==11)	
 			return;
 		
 		System.out.println(num + " * " + n +"="+(num * n));
