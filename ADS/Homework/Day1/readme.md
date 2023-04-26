@@ -8,5 +8,7 @@ Fibonacci series.
 Palindrome checker. 
 Rational number series sum.
 Table formation.
-Tower of hanoi
+Tower of hanoi.
+Permutation.
+GCD.
   
